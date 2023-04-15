@@ -6,14 +6,96 @@
   <component name="CMakePresetLoader">{
   &quot;useNewFormat&quot;: true
 }</component>
-  <component name="CMakeSettings">
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
     <configurations>
       <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
-      <configuration PROFILE_NAME="Release-System" ENABLED="true" CONFIG_NAME="Release" TOOLCHAIN_NAME="System" />
+      <configuration PROFILE_NAME="TI84ce-Toolchain" ENABLED="true" CONFIG_NAME="Release" TOOLCHAIN_NAME="TI84ce-Toolchain" NO_GENERATOR="true" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6b132a2-6d11-4e84-bed6-3dafc66b14bf" name="Changes" comment="" />
+    <list default="true" id="a6b132a2-6d11-4e84-bed6-3dafc66b14bf" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/customTargets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/alloca.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/assert.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/byteswap.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/c++/__config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/c++/cassert" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/c++/cctype" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/c++/climits" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/c++/cmath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/c++/cstddef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/c++/cstdint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/c++/cstdio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/c++/cstdlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/c++/cstring" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/c++/cxxabi.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/c++/exception" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/c++/initializer_list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/c++/limits" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/c++/new" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/c++/ti/real" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/c++/tireal.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/c++/type_traits" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/c++/typeinfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/c++/utility" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/cdefs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/compression.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/ctype.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/debug.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/errno.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/fatdrvce.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/fenv.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/fileioc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/float.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/fontlibc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/graphx.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/intce.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/inttypes.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/iso646.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/keypadc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/libload.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/limits.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/math.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/msddrvce.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/setjmp.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/srldrvce.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/stdalign.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/stdarg.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/stdbool.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/stddef.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/stdint.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/stdio.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/stdlib.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/stdnoreturn.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/string.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/sys/basicusb.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/sys/lcd.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/sys/power.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/sys/rtc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/sys/timers.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/sys/util.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/ti/debug.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/ti/error.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/ti/flags.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/ti/getcsc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/ti/getkey.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/ti/graph.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/ti/info.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/ti/python.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/ti/real.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/ti/screen.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/ti/tokens.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/ti/ui.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/ti/vars.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/tice.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/time.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/usbdrvce.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/wchar.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +104,10 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
   <component name="Make.Settings">
     <option name="path" value="C:\Users\ethan\Documents\CEdev\bin\make.exe" />
   </component>
@@ -29,32 +115,47 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2OSyIhc3eh3EKzPXHZGsK6kow8f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ethan/Documents/CEdev/bin/make.exe&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.make&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/Users/ethan/CLionProjects/CaclulatorPrograms",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "trusted.hosts",
+    "structure.view.defaults.are.configured": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Makefile Target.makefile (1)">
-    <configuration name="main.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CaclulatorPrograms" TARGET_NAME="main.cpp - System" CONFIG_NAME="main.cpp">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ethan\CLionProjects\CaclulatorPrograms" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Makefile Target.makefile">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CaclulatorPrograms" TARGET_NAME="main.cpp - TI84ce-Toolchain" CONFIG_NAME="main.cpp">
       <option name="sourceFile" value="src\main.cpp" />
-      <option name="toolchainName" value="System" />
+      <option name="toolchainName" value="TI84ce-Toolchain" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -71,10 +172,15 @@
       </makefile>
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="C/C++ File.main.cpp" />
+      <item itemvalue="Makefile Target.makefile" />
+      <item itemvalue="Makefile Target.makefile (1)" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Makefile Target.makefile (1)" />
         <item itemvalue="Makefile Target.makefile" />
+        <item itemvalue="Makefile Target.makefile (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -88,11 +194,49 @@
       <updated>1681568200115</updated>
       <workItem from="1681568203248" duration="869000" />
       <workItem from="1681583437200" duration="465000" />
-      <workItem from="1681583946572" duration="772000" />
+      <workItem from="1681583946572" duration="1306000" />
+      <workItem from="1681588738339" duration="674000" />
+      <workItem from="1681589420200" duration="4000" />
+      <workItem from="1681589432532" duration="1063000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1681586095763</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681586095763</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1681586256775</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681586256775</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="CMakeExceptionBreakpoint" />
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
